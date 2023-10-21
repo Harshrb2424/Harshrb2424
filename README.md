@@ -1,6 +1,7 @@
 # Harsh RB - Web Developer, Artist, Content Creator, Gamer
 
 Welcome to my GitHub profile! Feel free to explore my work and projects.
+View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.github.io/profile/)
 
 ## Personal Information
 
