@@ -55,7 +55,7 @@ View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.
 
 ## Projects
 
-1. **Project-UniEvent-Node (Hackathon Class Winners)**
+1. **Project-UniEvent-Node**
    - June 2023
    - Skills Developed: Web Backend Development
    - [GitHub Repo](https://github.com/ShaikhAman01/Project-UniEvent-Node)
