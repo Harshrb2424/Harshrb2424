@@ -51,7 +51,9 @@ View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.
 
 ### Web Development Bootcamp
 
-[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) (2022-Present)
+[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) (2022-2024)
+
+[![UC-22c2a1a7-05bd-451c-a601-200b601031f7](https://github.com/Harshrb2424/Harshrb2424/assets/110104434/8b2a3656-4690-47cf-8f11-fb999d57d02e)](https://www.udemy.com/certificate/UC-22c2a1a7-05bd-451c-a601-200b601031f7/)
 
 ## Projects
 
