@@ -56,52 +56,60 @@ View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.
 [![UC-22c2a1a7-05bd-451c-a601-200b601031f7](https://github.com/Harshrb2424/Harshrb2424/assets/110104434/8b2a3656-4690-47cf-8f11-fb999d57d02e)](https://www.udemy.com/certificate/UC-22c2a1a7-05bd-451c-a601-200b601031f7/)
 
 ## Projects
+- **TFI's Viva (Youtube Video)**
+   - May 2024
+   - Skills Developed: Video and Photo Editing
 
-1. **Project-UniEvent-Node**
+- **Aahvaan Freshers Event**
+   - May 2024
+   - Skills Developed: Visual Design and Audio Video Assistant
+   - [Video](https://youtu.be/NHKhesoyLuw?si=EIYH17evHgmw38gF)
+
+- **Project-UniEvent-Node**
    - June 2023
    - Skills Developed: Web Backend Development
    - [GitHub Repo](https://github.com/ShaikhAman01/Project-UniEvent-Node)
 
-2. **Janaki (Unreleased Short Film)**
+- **Janaki (Unreleased Short Film)**
    - June 2023
    - Skills Developed: Video and Photo Editing
 
-3. **Youtube Shorts (Short snippets Youtube Channel)**
+- **Youtube Shorts (Short snippets Youtube Channel)**
    - May 2023
    - Skills Developed: Video and Photo Editing
    - [YouTube Channel](https://www.youtube.com/@Short.snippets)
 
-4. **Instagram Content Creation (@Harshrd.3d)**
+- **Instagram Content Creation (@Harshrd.3d)**
    - June-March 2022
    - Skills Developed: Content Creation, 3D Modelling, Animation, Rendering & Compositing.
    - [Instagram Profile](https://www.instagram.com/harshrb.3d)
 
-5. **Created With Blender Timelapse (Youtube)**
+- **Created With Blender Timelapse (Youtube)**
    - Feb-March 2022
    - Skills Developed: 3D Modelling & Animation
    - [YouTube Playlist](https://youtube.com/playlist?list=PL5MuW9KkxcUj7q-tIZmJHpINRqfdh2foV&si=MGPg5ZvtmTED8bTb)
 
-6. **FMC Weekend 2022 Competition (IIT BHU Varanasi)**
+- **FMC Weekend 2022 Competition (IIT BHU Varanasi)**
    - Feb 2022
    - Skills Developed: 3D Modelling & Animation
    - [Instagram Post](https://www.instagram.com/p/CaAZJ3mlefj/)
 
-7. **Streaming Presents (for Shrey_INDIA Youtube)**
+- **Streaming Presents (for Shrey_INDIA Youtube)**
    - Apr 2021
    - Skills Developed: OBS Setup, Video Editing, and Thumbnail Creation
    - [YouTube Live](https://www.youtube.com/live/QD8hZmt0VPU?si=SEwD-lvisHLJOOdu)
 
-8. **Minecraft Videos**
+- **Minecraft Videos**
    - Sept-Oct 2020
    - Skills Developed: Content Creation, OBS Setup, Video Editing, and Thumbnail Creation
    - [YouTube Playlist](https://youtube.com/playlist?list=PL5MuW9KkxcUg6ps_3uMAfF7r7rN63_Xty&si=pxyA_TnNcsGmJs8P)
 
-9. **Minecraft World Designer Assistant (MGU.ONE)**
+- **Minecraft World Designer Assistant (MGU.ONE)**
    - Aug-Sept 2020
    - Skills Developed: Creative Design, Teamwork, Problem-Solving, Attention to Detail
    - [MGU.ONE Server](https://topminecraftservers.org/server/10331)
 
-10. **Community Coordinator (Discord Server: MGU.ONE)**
+- **Community Coordinator (Discord Server: MGU.ONE)**
    - July-Oct 2020
    - Skills Developed: Event Organizing, Discord Community Moderator, Helper
    - [MGU.ONE Discord](https://discord.gg/mgu)
