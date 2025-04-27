@@ -10,30 +10,92 @@ View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.
 - **City:** Hyderabad
 - **Email:** harshrb2424@gmail.com
 - **Languages:** English, Hindi, Telugu
-
 ## Skills
 
-- Web Development
-- Artistry
-- Content Creation
-- Gaming
+### Core Skills
+- Web Development  
+- Artistry  
+- Content Creation  
+- Gaming  
+
+---
 
 ### Technical Skills
 
-- **Web Technologies:**
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Node.js
-  - React
+#### Programming Languages
+- JavaScript  
+- Java  
+- C#  
+- Python  
+- C  
 
-- **Programming Languages:**
-  - C
-  - Python
+#### Web Technologies
+- HTML5  
+- CSS3  
+- ReactJS  
+- Next.js  
+- Node.js  
+- Express.js  
+- ASP.NET  
+- Django  
+- .NET Core  
+- FastAPI  
 
-- **Tools:**
-  - Adobe Premiere Pro
-  - Blender
+#### Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+#### DevOps & Cloud
+- Docker  
+- AWS (Amplify, S3, CloudFront)  
+- Vercel  
+- Netlify  
+- Firebase  
+
+#### Machine Learning & Data Science
+- TensorFlow  
+- PyTorch  
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- SciPy  
+- Matplotlib  
+- Seaborn  
+
+#### Design & Prototyping
+- UI/UX Design  
+- Interaction Design  
+- Prototyping  
+- Figma  
+
+#### Tools & Frameworks
+- VS Code  
+- Git / GitHub  
+- Postman  
+- Jupyter Notebook  
+- Google Colab  
+- PyCharm  
+- Chrome DevTools  
+- Vite  
+
+#### Creative Tools
+- Adobe Creative Cloud (Photoshop, Illustrator, After Effects, Premiere Pro)  
+- Blender  
+- OBS Studio  
+
+#### Video Editing
+- Adobe Premiere Pro  
+- Blender  
+
+---
+
+### Additional Skills
+- Object-Oriented Programming (OOP)  
+- Progressive Web Apps (PWAs)  
+- WebSocket Communication  
+- Microsoft Office Suite  
+
 
 ## Education
 
@@ -55,10 +117,35 @@ View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.
 
 [![UC-22c2a1a7-05bd-451c-a601-200b601031f7](https://github.com/Harshrb2424/Harshrb2424/assets/110104434/8b2a3656-4690-47cf-8f11-fb999d57d02e)](https://www.udemy.com/certificate/UC-22c2a1a7-05bd-451c-a601-200b601031f7/)
 
+
+## Experience
+
+### YAR Tech Services (Remote)  
+**ASP.NET Developer** | Oct 24 – Mar 25  
+- One-month internship and five months remote job as an ASP.NET Developer.  
+- Developed an Admin Panel and Pay Slip Generator.  
+- Involved in designing, coding, and testing web applications, collaborating with the team to implement features, fix bugs, and ensure smooth functionality.  
+
+### Smart Minds Tutorials | Hyderabad, India  
+**Tutor** | May 24 – Jun 24  
+- Taught fundamentals of computer theory and IT concepts to Osmania University students.  
+- Conducted classes on Java programming (ICSE students), C language, MS Office, and typing practicals.  
+- Simplified complex topics, conducted practical sessions, and guided students to build foundational skills effectively.  
+
+---
+
 ## Projects
-- **TFI's Viva (Youtube Video)**
-   - May 2024
-   - Skills Developed: Video and Photo Editing
+
+### Tenexis  
+**Jan 25 – Apr 25**  
+- Platform for college students to buy, sell, and rent products.  
+- Includes student shops and carpooling features.  
+- **Tech Stack:** React, Node.js, PostgreSQL, Docker, WhatsApp API, Cloudflare.  
+
+### Plexus Club  
+**Nov 24 – Apr 25**  
+- Designed the UI using Figma and developed the platform using React and Tailwind CSS. The project is hosted on GitHub.  
+- Built several desktop applications using Electron.js for managing events and competitions.  
 
 - **Aahvaan Freshers Event**
    - May 2024
