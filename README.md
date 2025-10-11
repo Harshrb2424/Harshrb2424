@@ -113,10 +113,14 @@ View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.
 
 ### Web Development Bootcamp
 
-[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) (2022-2024)
+[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) (2024-2024)
 
 [![UC-22c2a1a7-05bd-451c-a601-200b601031f7](https://github.com/Harshrb2424/Harshrb2424/assets/110104434/8b2a3656-4690-47cf-8f11-fb999d57d02e)](https://www.udemy.com/certificate/UC-22c2a1a7-05bd-451c-a601-200b601031f7/)
 
+### Machine Learning
+[Machine Learning A-Z: AI, Python & R + ChatGPT Prize](https://www.udemy.com/course/machinelearning/) (2025)
+
+[![UC-a1028b2d-e769-4a9e-94b3-eb1c7b8f7a84](https://github.com/user-attachments/assets/cb016e47-de81-4e3b-81f7-4c5b5411ab03)](https://www.udemy.com/certificate/UC-a1028b2d-e769-4a9e-94b3-eb1c7b8f7a84/)
 
 ## Experience
 
