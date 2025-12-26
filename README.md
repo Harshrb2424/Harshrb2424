@@ -1,206 +1,69 @@
-# Harsh RB - Web Developer, Artist, Content Creator, Gamer
+# Hi, I'm Harsh R Bagtharia! 
+### Full stack Developer
 
-Welcome to my GitHub profile! Feel free to explore my work and projects.
-View my profile at [https://harshrb2424.github.io/profile/](https://harshrb2424.github.io/profile/)
-
-## Personal Information
-
-- **Name:** Harsh R Bagtharia
-- **Phone No:** [+917660873570](https://wa.me/917660873570)
-- **City:** Hyderabad
-- **Email:** harshrb2424@gmail.com
-- **Languages:** English, Hindi, Telugu
-## Skills
-
-### Core Skills
-- Web Development  
-- Artistry  
-- Content Creation  
-- Gaming  
+<p align="left">
+  <a href="https://harshrb2424.github.io/profile/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://wa.me/917660873570"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:harshrb2424@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### Technical Skills
+### About Me
+I am a **B.Tech CSE (AI & ML)** student at Malla Reddy College of Engineering. I bridge the gap between technical development and creative artistry. Whether it's building robust web applications with **React, Next.js, ASP.NET**, training **Machine Learning** models, or creating immersive **3D environments in Blender**, I love bringing ideas to life.
 
-#### Programming Languages
-- JavaScript  
-- Java  
-- C#  
-- Python  
-- C  
-
-#### Web Technologies
-- HTML5  
-- CSS3  
-- ReactJS  
-- Next.js  
-- Node.js  
-- Express.js  
-- ASP.NET  
-- Django  
-- .NET Core  
-- FastAPI  
-
-#### Databases
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-
-#### DevOps & Cloud
-- Docker  
-- AWS (Amplify, S3, CloudFront)  
-- Vercel  
-- Netlify  
-- Firebase  
-
-#### Machine Learning & Data Science
-- TensorFlow  
-- PyTorch  
-- Scikit-learn  
-- Pandas  
-- NumPy  
-- SciPy  
-- Matplotlib  
-- Seaborn  
-
-#### Design & Prototyping
-- UI/UX Design  
-- Interaction Design  
-- Prototyping  
-- Figma  
-
-#### Tools & Frameworks
-- VS Code  
-- Git / GitHub  
-- Postman  
-- Jupyter Notebook  
-- Google Colab  
-- PyCharm  
-- Chrome DevTools  
-- Vite  
-
-#### Creative Tools
-- Adobe Creative Cloud (Photoshop, Illustrator, After Effects, Premiere Pro)  
-- Blender  
-- OBS Studio  
-
-#### Video Editing
-- Adobe Premiere Pro  
-- Blender  
+- Based in: **Hyderabad, India**
+- Languages: **English, Hindi, Telugu**
 
 ---
 
-### Additional Skills
-- Object-Oriented Programming (OOP)  
-- Progressive Web Apps (PWAs)  
-- WebSocket Communication  
-- Microsoft Office Suite  
+### Tech Stack & Skills
 
-
-## Education
-
-### School
-
-[Takshasila Public School](https://takshasilapublicschool.com/) (NUR to X, 2007-2020)
-
-### Intermediate
-
-[Sri Chaitanya Junior College](https://srichaitanya.net/) (XI & XII, 2020-2022)
-
-### College
-
-[Malla Reddy College of Engineering](https://mrce.in/) (B.Tech. CSE - AI & ML, 2022-Present)
-
-### Web Development Bootcamp
-
-[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) (2024-2024)
-
-[![UC-22c2a1a7-05bd-451c-a601-200b601031f7](https://github.com/Harshrb2424/Harshrb2424/assets/110104434/8b2a3656-4690-47cf-8f11-fb999d57d02e)](https://www.udemy.com/certificate/UC-22c2a1a7-05bd-451c-a601-200b601031f7/)
-
-### Machine Learning
-[Machine Learning A-Z: AI, Python & R + ChatGPT Prize](https://www.udemy.com/course/machinelearning/) (2025)
-
-[![UC-a1028b2d-e769-4a9e-94b3-eb1c7b8f7a84](https://github.com/user-attachments/assets/cb016e47-de81-4e3b-81f7-4c5b5411ab03)](https://www.udemy.com/certificate/UC-a1028b2d-e769-4a9e-94b3-eb1c7b8f7a84/)
-
-## Experience
-
-### YAR Tech Services (Remote)  
-**ASP.NET Developer** | Oct 24 – Mar 25  
-- One-month internship and five months remote job as an ASP.NET Developer.  
-- Developed an Admin Panel and Pay Slip Generator.  
-- Involved in designing, coding, and testing web applications, collaborating with the team to implement features, fix bugs, and ensure smooth functionality.  
-
-### Smart Minds Tutorials | Hyderabad, India  
-**Tutor** | May 24 – Jun 24  
-- Taught fundamentals of computer theory and IT concepts to Osmania University students.  
-- Conducted classes on Java programming (ICSE students), C language, MS Office, and typing practicals.  
-- Simplified complex topics, conducted practical sessions, and guided students to build foundational skills effectively.  
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
+| **Database/DevOps** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| **Creative** | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=flat&logo=adobe%20premiere%20pro&logoColor=white) |
 
 ---
 
-## Projects
+### Experience & Projects
 
-### Tenexis  
-**Jan 25 – Apr 25**  
-- Platform for college students to buy, sell, and rent products.  
-- Includes student shops and carpooling features.  
-- **Tech Stack:** React, Node.js, PostgreSQL, Docker, WhatsApp API, Cloudflare.  
+#### Professional Experience
+- **Urbanloop** | *Product Development Intern (Remote)* | Jun 25 - Nov 25
+  - Developed and deployed three cross-platform mobile applications.
+- **YAR Tech Services** | *ASP.NET Developer (Remote)* | Oct 24 – Mar 25
+  - Developed Admin Panels and Pay Slip Generators using ASP.NET Core.
+- **Smart Minds Tutorials** | *Computer Science Tutor* | May 24 – Jun 24
+  - Taught Java, C, and IT fundamentals to University students.
 
-### Plexus Club  
-**Nov 24 – Apr 25**  
-- Designed the UI using Figma and developed the platform using React and Tailwind CSS. The project is hosted on GitHub.  
-- Built several desktop applications using Electron.js for managing events and competitions.  
+#### Key Projects
+- **Tenexis**: A full-stack student marketplace (React, Node.js, PostgreSQL, Docker) with carpooling and rental features. [Website](http://tenexis.in/)
+- **Plexus Club**: UI/UX design in Figma & React frontend development; built desktop management tools using Electron.js. [Website](https://plexusclub.github.io/)
+- **UniEvent**: Backend development for college event management. [Repo](https://github.com/ShaikhAman01/Project-UniEvent-Node)
 
-- **Aahvaan Freshers Event**
-   - May 2024
-   - Skills Developed: Visual Design and Audio Video Assistant
-   - [Video](https://youtu.be/NHKhesoyLuw?si=EIYH17evHgmw38gF)
+---
 
-- **Project-UniEvent-Node**
-   - June 2023
-   - Skills Developed: Web Backend Development
-   - [GitHub Repo](https://github.com/ShaikhAman01/Project-UniEvent-Node)
+### Creative Portfolio
+- **3D Art & Animation**: check out my Blender work on [Instagram @Harshrd.3d](https://www.instagram.com/harshrb.3d).
+- **Content Creation**: I manage [Short.snippets](https://www.youtube.com/@Short.snippets) on YouTube and create Minecraft-related content.
+- **Visual Design**: Assisted in video/audio production for events like *Aahvaan Freshers*.
 
-- **Janaki (Unreleased Short Film)**
-   - June 2023
-   - Skills Developed: Video and Photo Editing
+---
 
-- **Youtube Shorts (Short snippets Youtube Channel)**
-   - May 2023
-   - Skills Developed: Video and Photo Editing
-   - [YouTube Channel](https://www.youtube.com/@Short.snippets)
+### Education & Certifications
+- **B.Tech in CSE (AI & ML)** - Malla Reddy College of Engineering (2022 - 2026)
+- [**The Complete Web Development Bootcamp** - Udemy (Dr. Angela Yu) (2024-2024)](https://www.udemy.com/certificate/UC-22c2a1a7-05bd-451c-a601-200b601031f7/)
+- [**Machine Learning A-Z: AI, Python & R** - Udemy](https://www.udemy.com/certificate/UC-a1028b2d-e769-4a9e-94b3-eb1c7b8f7a84/)
 
-- **Instagram Content Creation (@Harshrd.3d)**
-   - June-March 2022
-   - Skills Developed: Content Creation, 3D Modelling, Animation, Rendering & Compositing.
-   - [Instagram Profile](https://www.instagram.com/harshrb.3d)
+---
 
-- **Created With Blender Timelapse (Youtube)**
-   - Feb-March 2022
-   - Skills Developed: 3D Modelling & Animation
-   - [YouTube Playlist](https://youtube.com/playlist?list=PL5MuW9KkxcUj7q-tIZmJHpINRqfdh2foV&si=MGPg5ZvtmTED8bTb)
-
-- **FMC Weekend 2022 Competition (IIT BHU Varanasi)**
-   - Feb 2022
-   - Skills Developed: 3D Modelling & Animation
-   - [Instagram Post](https://www.instagram.com/p/CaAZJ3mlefj/)
-
-- **Streaming Presents (for Shrey_INDIA Youtube)**
-   - Apr 2021
-   - Skills Developed: OBS Setup, Video Editing, and Thumbnail Creation
-   - [YouTube Live](https://www.youtube.com/live/QD8hZmt0VPU?si=SEwD-lvisHLJOOdu)
-
-- **Minecraft Videos**
-   - Sept-Oct 2020
-   - Skills Developed: Content Creation, OBS Setup, Video Editing, and Thumbnail Creation
-   - [YouTube Playlist](https://youtube.com/playlist?list=PL5MuW9KkxcUg6ps_3uMAfF7r7rN63_Xty&si=pxyA_TnNcsGmJs8P)
-
-- **Minecraft World Designer Assistant (MGU.ONE)**
-   - Aug-Sept 2020
-   - Skills Developed: Creative Design, Teamwork, Problem-Solving, Attention to Detail
-   - [MGU.ONE Server](https://topminecraftservers.org/server/10331)
-
-- **Community Coordinator (Discord Server: MGU.ONE)**
-   - July-Oct 2020
-   - Skills Developed: Event Organizing, Discord Community Moderator, Helper
-   - [MGU.ONE Discord](https://discord.gg/mgu)
+<p align="center">
+  <b>Let's connect!</b><br>
+   <a href="https://www.linkedin.com/in/harshrb05"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://x.com/Harshrb3D"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+   <a href="https://www.instagram.com/harshrb.3d"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+   <a href="https://www.youtube.com/@HarshRB.3D"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+</p>
