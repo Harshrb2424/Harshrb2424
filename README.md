@@ -1,11 +1,27 @@
-# Hi, I'm Harsh R Bagtharia! 
-### Full stack Developer
+<div align="center">
 
-<p align="left">
-  <a href="https://harshrb2424.github.io/profile/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://wa.me/917660873570"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:harshrb2424@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+# Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="32" width="32"> I'm Harsh R Bagtharia!
+
+### Full Stack Developer
+
+<p>
+  <a href="https://harshrb2424.github.io/profile/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://wa.me/917660873570">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:harshrb2424@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<br>
+
+<img src="https://github-readme-stats-amber-eta-51.vercel.app/api/top-langs/?username=Harshrb2424&layout=compact&theme=dark" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-amber-eta-51.vercel.app/api?username=Harshrb2424&show_icons=true&theme=dark" height="165" alt="GitHub Stats" />
+
+</div>
 
 ---
 
