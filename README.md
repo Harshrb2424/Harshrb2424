@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="32" width="32"> I'm Harsh R Bagtharia!
+# Hi I'm Harsh R Bagtharia!
 
 ### Full Stack Developer
 
